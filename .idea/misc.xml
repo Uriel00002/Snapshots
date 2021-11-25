@@ -5,6 +5,9 @@
       <map>
         <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/drawable/ic_home.xml" value="0.21614583333333334" />
         <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_add.xml" value="0.2" />
+        <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/layout/fragment_profile.xml" value="0.1859375" />
         <entry key="..\:/Users/ITI/AndroidStudioProjects/Snapshots/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22" />
       </map>
     </option>
